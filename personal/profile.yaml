@@ -10,7 +10,7 @@ short_name: "Yousha"
 role: "CSE student"
 now: "B.Sc. CSE student at Daffodil International University, learning C and Java, tutoring on the side and keeping goal whenever there is a match."
 photo_alt: "Yousha Ahmad in a dark suit, standing on a staircase"
-location: "Rajendrapur CAntonment, Gazipur, Bangladesh"
+location: "Rajendrapur Cantonment, Gazipur, Bangladesh"
 cv_url: ""
 
 cvs:                               # extra CV buttons; files live in personal/ (see hugo.toml mounts)
@@ -34,8 +34,8 @@ about_facts:                       # the side card on the About page
   - { label: "Studying", value: "B.Sc. CSE, Daffodil International University" }
   - { label: "Based in", value: "Gazipur, Bangladesh" }
   - { label: "Plays", value: "Goalkeeper" }
-  - { label: "Supports", value: "Spain" }
-  - { label: "Teaches", value: "Maths, science, English and ICT, Play to Class 10" }
+  - { label: "Supports", value: "Argentina, FC Barcelona & Spain" }
+  - { label: "Teaches", value: "Maths, Science, English and ICT, Play to Class 10" }
   - { label: "Speaks", value: "Bangla, English, Hindi, Spanish" }
 
 facts:
