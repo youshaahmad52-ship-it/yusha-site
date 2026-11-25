@@ -7,10 +7,10 @@
 
 name: "Yousha Ahmad"
 short_name: "Yousha"
-role: "CSE student & goalkeeper"
+role: "CSE student"
 now: "B.Sc. CSE student at Daffodil International University, learning C and Java, tutoring on the side and keeping goal whenever there is a match."
 photo_alt: "Yousha Ahmad in a dark suit, standing on a staircase"
-location: "Gazipur, Bangladesh"
+location: "Rajendrapur CAntonment, Gazipur, Bangladesh"
 cv_url: ""
 
 cvs:                               # extra CV buttons; files live in personal/ (see hugo.toml mounts)
@@ -26,9 +26,9 @@ home_sections:
 moments: 6
 
 highlights:                        # the photo row on the home page (files in personal/photos/)
-  - { photo: "award-1", caption: "Finished my first marathon with Navana Runners, 2025." }
+  - { photo: "award-1", caption: "Finished my first marathon with Nayanpur Runners, 2025." }
   - { photo: "hobby-1", caption: "In goal, where I'm happiest." }
-  - { photo: "gallery/g02", caption: "Speaking at a school event." }
+  - { photo: "gallery/g02", caption: "Speaking at a college event." }
 
 about_facts:                       # the side card on the About page
   - { label: "Studying", value: "B.Sc. CSE, Daffodil International University" }
